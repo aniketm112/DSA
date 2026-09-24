@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniketm112/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniketm112/DSA/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/aniketm112/DSA/tree/master/0217-contains-duplicate) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketm112/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aniketm112/DSA/tree/master/0009-palindrome-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketm112/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
