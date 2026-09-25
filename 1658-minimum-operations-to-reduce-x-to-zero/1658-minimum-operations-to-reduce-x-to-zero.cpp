@@ -1,0 +1,28 @@
+class Solution {
+public:
+    int minOperations(vector<int>& nums, int x) {
+        int total = 0;
+        for (int num : nums) total += num;
+        
+        int target = total - x;
+        if (target < 0) return -1;
+        
+        int left = 0, currentSum = 0, maxLen = -1;
+        
+        for (int right = 0; right < nums.size(); right++) {
+            currentSum += nums[right];
+            
+            while (currentSum > target && left <= right) {
+                currentSum -= nums[left];
+                left++;
+            }
+            
+            if (currentSum == target) {
+                maxLen = max(maxLen, right - left + 1);
+            }
+        }
+        
+        if (maxLen == -1) return -1;
+        return nums.size() - maxLen;
+    }
+};
