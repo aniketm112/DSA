@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketm112/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aniketm112/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aniketm112/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aniketm112/DSA/tree/master/0344-reverse-string) |
 | [1096-brace-expansion-ii](https://github.com/aniketm112/DSA/tree/master/1096-brace-expansion-ii) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aniketm112/DSA/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -78,8 +80,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aniketm112/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aniketm112/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aniketm112/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
