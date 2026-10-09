@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketm112/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aniketm112/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aniketm112/DSA/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aniketm112/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketm112/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aniketm112/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aniketm112/DSA/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aniketm112/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/aniketm112/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketm112/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aniketm112/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aniketm112/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +107,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aniketm112/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketm112/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aniketm112/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
