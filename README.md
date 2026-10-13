@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniketm112/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniketm112/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aniketm112/DSA/tree/master/0035-search-insert-position) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketm112/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aniketm112/DSA/tree/master/0217-contains-duplicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketm112/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aniketm112/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketm112/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aniketm112/DSA/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/aniketm112/DSA/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aniketm112/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -120,5 +122,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketm112/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aniketm112/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketm112/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketm112/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
