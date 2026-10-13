@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/aniketm112/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniketm112/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniketm112/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/aniketm112/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/aniketm112/DSA/tree/master/0217-contains-duplicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketm112/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aniketm112/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aniketm112/DSA/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketm112/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aniketm112/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
